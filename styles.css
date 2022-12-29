@@ -155,7 +155,7 @@ main{
 
 main::before{
     content: '';
-    background: url('./img/showcase.jpg') center center/cover no-repeat;
+    background: url(./img/showcase.jpg) center center/cover no-repeat;
     height: 100%;
     width: 100%;
     top: 0;
@@ -529,7 +529,7 @@ footer .container span{
 
 .showcase-article::before{
     content: '';
-    background: url('./img/article_art.jpg') center center/cover no-repeat;
+    background: url(./img/article_art.jpg) center center/cover no-repeat;
     height: 100%;
     width: 100%;
     top: 0;
@@ -616,7 +616,7 @@ section .container{
 
 .showcase-about::before{
     content: '';
-    background: url('./img/about.jpg') center center/cover no-repeat;
+    background: url(./img/about.jpg) center center/cover no-repeat;
     height: 100%;
     width: 100%;
     top: 0;
